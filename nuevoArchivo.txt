@@ -1,4 +1,8 @@
 Inicializando 
 
+<<<<<<< HEAD
 
 Hola esto hace parte 
+=======
+este archivo es parte de una rama
+>>>>>>> Asistente
