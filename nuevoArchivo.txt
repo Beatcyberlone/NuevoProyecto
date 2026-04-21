@@ -1,8 +1,6 @@
 Inicializando 
 
-<<<<<<< HEAD
 
 Hola esto hace parte 
-=======
-este archivo es parte de una rama
->>>>>>> Asistente
+
+Mi primera contribución local para Github 
